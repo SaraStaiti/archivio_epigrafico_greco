@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epigramma per Polystratos (Dyme)</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Esercizio Epigrafia Greca</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Iscrizione perduta</repository>
+                        <idno>SEG XXX 432</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Lastra</objectType>
+                                    <material>Marmo bianco</material>
+                                    <dimensions unit="cm">
+                                        <height>31</height>
+                                        <width>41</width>
+                                        <depth>6.5</depth>
+                                    </dimensions>
+                                    <rs type="execution">Riutilizzata come materiale da costruzione in una vecchia casa di Kato Achaia.</rs>
+                                </support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Acaia, Dyme</origPlace>
+                            <origDate evidence="internal" notBefore="-0300" notAfter="-0201">Fine del III secolo a.C. (criterio contenutistico)</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:lang="grc" n="SEG_30_432">
+                <ab>
+                    <lb n="1"/><supplied reason="lost">χαῖρε</supplied> μοι, κάλιστε καλῶν ἠιθέων Πολύστρατε, 
+                    <lb n="2"/><supplied reason="lost">ἀλκίμ</supplied>ωι μάλιστα πάντων Ἡρακλεῖ τετιμένε, 
+                    <lb n="3"/><supplied reason="lost">ὅς πάλαι</supplied> δάμης ὑπ’ αἰχμῆι θουρίων Μολινιδᾶν 
+                    <lb n="4"/><supplied reason="lost">πυκνὸν</supplied> Ἀλκείδηι κορύσσων οὐλαμὸν παραστάτης, 
+                    <lb n="5"/><supplied reason="lost">ἔγχος ὀξ</supplied>ύνας σιδήρωι <choice><corr>τ</corr><sic/></choice>ὸ πρὶν ἐστομωμένον· 
+                    <lb n="6"/><supplied reason="lost">ὧδ’ ἑάλως· ἐκ</supplied> δ’ ἄρ’ ὄσσων οὐ πάρος δεδευμένων 
+                    <lb n="7"/><supplied reason="lost">Ἡρακλῆς δὴ λεῖβ</supplied>ε δάκρυ καὶ γοηρὸν ἴαχεν 
+                    <lb n="8"/><supplied reason="lost">χαλκέωι χαίτην δ’ ἄπλ</supplied>εκτον ἐσκύθιζε φασγάνωι. 
+                    <lb n="9"/><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost" cert="low">τύμβο</supplied>ν <choice><corr>ε</corr><sic/></choice>ὗ<choice><corr>ρ</corr><sic/></choice>ες <unclear>ἐν</unclear> <unclear>Δύμηι</unclear> <supplied reason="lost" cert="low">καλόν</supplied>.
+                </ab>
+            </div>
+            <div type="translation" xml:lang="it">
+                <p>Siimi felice, Polystratos, il più bello tra i giovani non sposati, onorato sommamente dal forte Eracle fra tutti, che un tempo fosti domato dalla lancia degli impetuosi figli di Molione, mentre come compagno d’armi di Alcide provocavi la fitta moltitudine (di guerrieri), dopo aver reso appuntita la lancia che prima era stata temprata dal ferro. Così in questo modo sei stato vinto. Ed Eracle, certo, dagli occhi che prima non erano mai stati bagnati versava lacrime e intonava un lamento e si tagliava i capelli non intrecciati con la spada di bronzo. […] trovi a Dyme una bella tomba. </p>
+            </div>
+            <div type="bibliography">
+                <p>SEG XXX 432; Rizakis 2008, p. 81; Cairon 2009, pp. 141-146.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
